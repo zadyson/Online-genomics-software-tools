@@ -1,6 +1,6 @@
 # Online bacterial genome analysis software tools
 
-A **very** non-exhaustive list of online resources for bacterial genomic analysis for those just starting out in pathogen genomics.
+A **very** non-exhaustive list of online resources for bacterial genomic analysis for those just starting out in pathogen genomics. Please note I am not affiliatd with these tools, unless otherwise stated, nor have I explored their full functionality.
 
 
 ## Data visualisation
@@ -50,6 +50,14 @@ URL: https://services.healthtech.dtu.dk/service.php?TMHMM-2.0
 **InterProScan:** Classification of protein families \
 URL: https://www.ebi.ac.uk/interpro/
 
+**Prot pi:** a web application for calculating physico-chemical parameters of proteins and peptides.  \
+URL: https://www.protpi.ch/
+
+**CELLO2GO:** A web server for protein subCELlular LOcalization prediction with functional Gene Ontology annotation.  \
+URL: http://cello.life.nctu.edu.tw/cello2go/
+
+
+**
 
 ## Annotation 
 
