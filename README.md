@@ -34,6 +34,13 @@ URL: https://www.genome.jp/viptree/
 **ISFinder.** \
 URL: https://isfinder.biotoul.fr/
 
+## Plasmids
+**PlasmidFinder:**\
+URL: https://cge.food.dtu.dk/services/PlasmidFinder/
+
+**Plasmid MLST:** \
+URL: https://cge.food.dtu.dk/services/pMLST/
+
 ## Proteins
 **The STRING database**: customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets.\
 URL: https://string-db.org/
