@@ -3,7 +3,7 @@ A *very* non-exhaustive list of online resources for bacterial genomic analysis 
 
 ## Data visualisation
 
-Interactive Tree Of Life is an online tool for the display, annotation and management of phylogenetic and other trees.\  
+Interactive Tree Of Life is an online tool for the display, annotation and management of phylogenetic and other trees.  \
 URL: https://itol.embl.de/.
 
 Phandango: Interactive visualization of genome phylogenies. \
@@ -67,7 +67,7 @@ URL: http://exon.gatech.edu/genemark/genemarks.cgi
 
 ## tRNA detection
 
-tRNAscan-SE: Searching for tRNA genes in genomic sequences /
+tRNAscan-SE: Searching for tRNA genes in genomic sequences. \
 URL: http://lowelab.ucsc.edu/tRNAscan-SE/
 
 ARAGORN: ARAGORN detects tRNA, mtRNA info about tmRNA, and tmRNA genes /
