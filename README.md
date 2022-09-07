@@ -4,7 +4,6 @@ A **very** non-exhaustive list of online resources for bacterial genomic analysi
 
 
 ## Data visualisation
-
 **Interactive Tree Of Life (iTOL)** is an online tool for the display, annotation and management of phylogenetic and other trees.  \
 URL: https://itol.embl.de/.
 
@@ -16,12 +15,10 @@ URL: https://microreact.org/.
 
 
 ## Genetic epidemiology
-
 **PathogenWatch:** A Global Platform for Genomic Surveillance.\
 URL: https://pathogen.watch/
 
 ## AMR
-
 **CARD:** The Comprehensive Antibiotic Resistance Database. \
 URL https://card.mcmaster.ca/
 
@@ -30,17 +27,14 @@ in total or partial DNA sequence of bacteria.  \
 URL: https://cge.cbs.dtu.dk/services/ResFinder/
 
 ## Bacteriophages
-
 **VIPTree:** the Viral Proteomic Tree server. \
 URL: https://www.genome.jp/viptree/
 
 ## Insertion sequences
-
 **ISFinder.** \
 URL: https://isfinder.biotoul.fr/
 
 ## Proteins
-
 **The STRING database**: customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets.\
 URL: https://string-db.org/
 
@@ -57,16 +51,12 @@ URL: https://www.protpi.ch/
 URL: http://cello.life.nctu.edu.tw/cello2go/
 
 
-**
-
 ## Annotation 
-
 **RAST:** Rapid Annotation using Subsystem Technology.\
 URL: https://rast.nmpdr.org/
 
 
 ## ORF prediction
-
 **Glimmer:** Microbial gene finding system.\
 URL: http://ccb.jhu.edu/software/glimmer/index.shtml
 
@@ -77,7 +67,6 @@ URL: https://www.ncbi.nlm.nih.gov/orffinder/
 URL: http://exon.gatech.edu/genemark/genemarks.cgi
 
 ## tRNA detection
-
 **tRNAscan-SE:** Searching for tRNA genes in genomic sequences. \
 URL: http://lowelab.ucsc.edu/tRNAscan-SE/
 
