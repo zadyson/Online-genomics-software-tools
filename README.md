@@ -3,14 +3,14 @@ A very non-exhaustive list of online resources for bacterial genomics
 
 ## Data visualisation
 
-Interactive Tree Of Life is an online tool for the display, annotation and management of phylogenetic and other trees.
-URL: https://itol.embl.de/
+Interactive Tree Of Life is an online tool for the display, annotation and management of phylogenetic and other trees.  
+URL: https://itol.embl.de/. 
 
-Phandango: Interactive visualization of genome phylogenies
-URL: https://jameshadfield.github.io/phandango/#/
+Phandango: Interactive visualization of genome phylogenies. 
+URL: https://jameshadfield.github.io/phandango/#/. 
 
-Microreact: Open data visualization and sharing for genomic epidemiology
-URL: https://microreact.org/
+Microreact: Open data visualization and sharing for genomic epidemiology. 
+URL: https://microreact.org/. 
 
 
 ## Genetic epidemiology
