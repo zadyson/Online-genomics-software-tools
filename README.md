@@ -35,3 +35,6 @@ URL: http://ccb.jhu.edu/software/glimmer/index.shtml
 
 ORFinder: Open Reading Frame Finder
 URL: https://www.ncbi.nlm.nih.gov/orffinder/
+
+GeneMarkS:
+http://exon.gatech.edu/genemark/genemarks.cgi
