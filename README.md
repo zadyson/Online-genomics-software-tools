@@ -44,6 +44,9 @@ URL: https://string-db.org/
 TMHMM - 2.0: Prediction of transmembrane helices in proteins.\
 URL: https://services.healthtech.dtu.dk/service.php?TMHMM-2.0
 
+InterProScan: Classification of protein families \
+URL: https://www.ebi.ac.uk/interpro/
+
 
 ## Annotation 
 
