@@ -1,5 +1,5 @@
 # Online-software-tools
-A very non-exhaustive list of online resources for bacterial genomics
+A *very* non-exhaustive list of online resources for bacterial genomics
 
 ## Data visualisation
 
