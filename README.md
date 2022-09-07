@@ -22,6 +22,9 @@ URL: https://pathogen.watch/
 **CARD:** The Comprehensive Antibiotic Resistance Database. \
 URL https://card.mcmaster.ca/
 
+**Beta-Lactamase Database:**. \
+http://bldb.eu/
+
 **ResFinder:** ResFinder identifies acquired genes and/or finds chromosomal mutations mediating antimicrobial resistance
 in total or partial DNA sequence of bacteria.  \
 URL: https://cge.cbs.dtu.dk/services/ResFinder/
