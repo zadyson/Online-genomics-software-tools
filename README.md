@@ -1,6 +1,6 @@
 # Online bacterial genome analysis software tools
 
-A **very** non-exhaustive list of online resources for bacterial genomic analysis for those just starting out in pathogen genomics. Please note I am not affiliatd with these tools, unless otherwise stated, nor have I explored their full functionality.
+A **very** non-exhaustive list of online resources for bacterial genomic analysis for those just starting out in pathogen genomics. Please note I am not affiliated with these tools, unless otherwise stated, nor have I explored their full functionality.
 
 
 ## Data visualisation
