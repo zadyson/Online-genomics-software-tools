@@ -37,6 +37,10 @@ URL: https://www.genome.jp/viptree/
 **ISFinder.** \
 URL: https://isfinder.biotoul.fr/
 
+## Transposons
+**TnCentral.**  \
+URL: https://tncentral.proteininformationresource.org/  
+
 ## Plasmids
 **PlasmidFinder:**\
 URL: https://cge.food.dtu.dk/services/PlasmidFinder/
