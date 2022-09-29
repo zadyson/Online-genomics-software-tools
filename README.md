@@ -32,10 +32,16 @@ URL: https://cge.cbs.dtu.dk/services/ResFinder/
 ## Bacteriophages
 **VIPTree:** the Viral Proteomic Tree server. \
 URL: https://www.genome.jp/viptree/
+**PHASTER.** \
+https://phaster.ca/  
 
 ## Insertion sequences
 **ISFinder.** \
 URL: https://isfinder.biotoul.fr/
+
+## CRISPR
+**CRISPRCasFinder.** \
+https://crisprcas.i2bc.paris-saclay.fr/CrisprCasFinder/Index  
 
 ## Transposons
 **TnCentral.**  \
