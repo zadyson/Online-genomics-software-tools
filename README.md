@@ -36,7 +36,7 @@ URL: https://www.genome.jp/viptree/
 https://phaster.ca/  
 
 ## Insertion sequences
-**ISFinder.** \
+**ISFinder.** \  
 URL: https://isfinder.biotoul.fr/
 
 ## CRISPR
