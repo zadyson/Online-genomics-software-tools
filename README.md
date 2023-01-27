@@ -58,6 +58,12 @@ URL: https://cge.food.dtu.dk/services/pMLST/
 **The STRING database**: customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets.\
 URL: https://string-db.org/
 
+**FoldX:** effect of mutations on the stability, folding and dynamics of proteins and nucleic acids.  \   
+https://foldxsuite.crg.eu/node/196  
+
+**ModWeb:**  Protein structure modelling.  \
+https://modbase.compbio.ucsf.edu/modweb/   
+
 **TMHMM - 2.0:** Prediction of transmembrane helices in proteins.\
 URL: https://services.healthtech.dtu.dk/service.php?TMHMM-2.0
 
