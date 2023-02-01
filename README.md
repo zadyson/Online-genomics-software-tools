@@ -34,6 +34,8 @@ URL: https://cge.cbs.dtu.dk/services/ResFinder/
 URL: https://www.genome.jp/viptree/
 **PHASTER.** \
 https://phaster.ca/  
+**PhageCompass:**  \
+URL: http://www.phagecompass.dk/  
 
 ## Insertion sequences
 **ISFinder.**   
