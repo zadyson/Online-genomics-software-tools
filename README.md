@@ -37,6 +37,10 @@ https://phaster.ca/
 **PhageCompass:**  \
 URL: http://www.phagecompass.dk/  
 
+## Baceriocines
+**BAGEL4:**  \
+URL: http://bagel4.molgenrug.nl/
+
 ## Insertion sequences
 **ISFinder.**   
 URL: https://isfinder.biotoul.fr/
