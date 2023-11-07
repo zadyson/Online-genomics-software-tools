@@ -36,6 +36,8 @@ URL: https://www.genome.jp/viptree/
 https://phaster.ca/  
 **PhageCompass:**  \
 URL: http://www.phagecompass.dk/  
+**VIRIDIC:**  \
+URL: https://rhea.icbm.uni-oldenburg.de/viridic/  
 
 ## Baceriocines
 **BAGEL4:**  \
